@@ -27,5 +27,7 @@ Temporary Items
 
 # Photoprism
 storage/*
+!storage/.gitkeep
 pictures/*
+!pictures/.gitkeep
 .vscode/*
