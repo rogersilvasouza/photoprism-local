@@ -1,6 +1,6 @@
 services:
   photoprism:
-    image: photoprism/photoprism:260601
+    image: photoprism/photoprism:260728
     depends_on:
       - mariadb
     security_opt:
