@@ -26,7 +26,7 @@ services:
 
   mariadb:
     restart: unless-stopped
-    image: mariadb:12.3.2
+    image: mariadb:12.3.3
     security_opt:
       - seccomp:unconfined
       - apparmor:unconfined
